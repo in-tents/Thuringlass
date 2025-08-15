@@ -40,7 +40,9 @@ Post-Production Fact-Checking and Debate Analysis
   * Not "this is the right view" but "here's what recognized experts think about this thing" 
 
 Regarding information tracking:
-At a point yet to be determined, ideally once they officially begin running for office, their public information is tracked (social media, interviews, personal public media like blogs or news letters) BUT ONLY from the date that they began running until they leave office or the race.
+The moment they file any official paperwork indicating intent to run OR accept any donation over $1,000, their public facing information is tracked (social media, interviews, public facing media like blogs or news letters) BUT ONLY from the date that they began running until they leave office or the race.
+
+Public Facing: While I can find your address through free, publically accessible skip tracing, that is NOT public facing information.
 
 When they are not in office or running, the data is only available on-chain, not the user facing app.
 
