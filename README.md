@@ -9,8 +9,11 @@ Open source politics
 3) there isn't a way to meaningfully participate. Sure I can vote, but the data has proven how little impact my vote actually has on deciding outcomes. The sheer volume of uninformed/hivemind votes makes mine pointless anyway.
 
 I do not pretend to have a blanket solution, but I offer a step in the right direction.
+
 What if every political stance, vote, and campaign promise was tracked on-chain?
+
 What if I could know that someone 1) didn't answer the question, 2) is spewing misinformation, and 3) details that provide needed context for you to make your own conclusion?
+
 While this doesn't counter voter apathy behaviour directly, at least other votes have no excuse to be uninformed or for "my party".
 
 # Proposed Features for Thuringlass
@@ -38,11 +41,15 @@ Post-Production Fact-Checking and Debate Analysis
 
 Regarding information tracking:
 At a point yet to be determined, ideally once they officially begin running for office, their public information is tracked (social media, interviews, personal public media like blogs or news letters) BUT ONLY from the date that they began running until they leave office or the race.
+
 When they are not in office or running, the data is only available on-chain, not the user facing app.
+
 There will need to be a forward facing app for thuringlass and then a block-chain interface for transparency and accountability. There will be an API so that you can call for data and have your personal AI do the explaining and fact checking.
+
 
 ### ok but WHY crypto blockchain sketchy bullshit
 the current regime is already beginning to censor things.
+
 I will not give easy access to my colon.
 
 # OPEN SOURCE POLITICS
